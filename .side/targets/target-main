@@ -1,0 +1,11 @@
+packing:
+  repo: '@godgnidoc/libcli'
+  deploy:
+    strategy: copy
+    includes:
+      - usr
+  root:
+    compress: true
+    includes:
+      - usr
+      - build-info.json

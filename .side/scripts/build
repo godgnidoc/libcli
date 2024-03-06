@@ -1,0 +1,4 @@
+#!/bin/bash -e
+
+env -C build cmake ${SIDE_PROJECT}
+env -C build make -j$(nproc) $@

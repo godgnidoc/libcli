@@ -1,0 +1,7 @@
+project: libcli
+engine: 1.1.10
+
+dirs:
+  DIST: build
+exports:
+  PROJECT_VERSION: 1.0.0
