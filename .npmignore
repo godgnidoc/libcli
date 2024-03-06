@@ -1,0 +1,17 @@
+.vscode
+build/cpp
+build/go
+cpp
+go
+node/src
+.clang-format
+.gitignore
+.npmignore
+CMakeLists.txt
+CMakeUserPresets.json
+CMakePresets.json
+go.mod
+README.md
+tsconfig.json
+vcpkg-configuration.json
+vcpkg.json
